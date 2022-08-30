@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="Default.aspx" title="Homepage"  description="">
+		<siteMapNode url="Sign Up.aspx" title="Signup"  description="" />
+		<siteMapNode url="Login.aspx" title="Login"  description="" />
+			<siteMapNode url="Market.aspx" title="Market"  description="">
+			<siteMapNode url="NFT.aspx" title="NFT"  description="" />
+			<siteMapNode url="Your Profile.aspx" title="Profile"  description="" />
+			<siteMapNode url="Earn.aspx" title="Earn"  description="">
+		<siteMapNode url="Game.aspx" title="play"  description="play" />
+	</siteMapNode>
+ </siteMapNode>
+		</siteMapNode>
+
+	
+	
+	
+   
+ 
+</siteMap>
