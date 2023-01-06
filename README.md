@@ -28,5 +28,3 @@
 >An SQL database was created to save users' data and the NFTs' data.
 
 >Run iLoveVS.sln to start.
-
->Enjoy :)
